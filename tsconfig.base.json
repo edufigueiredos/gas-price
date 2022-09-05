@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@gas-price/api-interfaces": ["libs/api-interfaces/src/index.ts"]
+      "@gas-price/api-interfaces": ["libs/api-interfaces/src/index.ts"],
+      "@gas-price/text-input": ["libs/text-input/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

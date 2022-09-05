@@ -5,6 +5,7 @@
     "api": "apps/api",
     "api-interfaces": "libs/api-interfaces",
     "gas-price": "apps/gas-price",
-    "gas-price-e2e": "apps/gas-price-e2e"
+    "gas-price-e2e": "apps/gas-price-e2e",
+    "text-input": "libs/text-input"
   }
 }
